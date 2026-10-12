@@ -1,0 +1,8 @@
+name=input("enter your name")
+print (name)
+age=int(input("enter your age"))
+print(age)
+mean=float(input("enter mean"))
+print(mean)
+swim=bool(input("did you swim"))
+print(swim)
